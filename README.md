@@ -13,10 +13,12 @@ python cookeys.py
 
 
 ### 🔧 Installation
-
+```
 pip install -r requirements.txt
+```
+```
 python cookeys.py
-
+```
 
 ## 🛠️ Made with
 

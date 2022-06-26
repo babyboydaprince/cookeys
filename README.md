@@ -1,5 +1,7 @@
 # Python Chrome cookie grabber and decryptor
 
+![alt text](https://github.com/babyboydaprince/cookeys/blob/main/img/banner.png?raw=true)
+
 Python script which grabs chrome locally stored cookies and
 drecrypts them using the locally stored key.
 

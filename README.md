@@ -1,6 +1,7 @@
 # Python Chrome cookie grabber and decryptor
 
-Python script which grabs chrome locally stored cookies and drecrypts them for further use.
+Python script which grabs chrome locally stored cookies and
+drecrypts them using the locally stored key.
 
 ## 🚀 Run
 

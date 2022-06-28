@@ -12,7 +12,7 @@ python cookeys.py
  ```
 ### 📋 Prerequisites
 
--> Python 3
+- Python 3
 
 
 ### 🔧 Installation
@@ -25,12 +25,12 @@ python cookeys.py
 
 ## 🛠️ Made with
 
--> Python 3.9.13
+- Python 3.9.13
 
 
 ## 📌 cookeys version
 
--> 1.0
+- 1.0
 
 ---
 

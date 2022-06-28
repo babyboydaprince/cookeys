@@ -48,9 +48,9 @@ Respect other people's privacy.
 
 ## 📌 Comming soon
 
--> Remote execution
--> Forward grabbed info to web
--> Output file formats
+- Remote execution;
+- Forward grabbed info to web;
+- Output file formats.
 
 ---
 
